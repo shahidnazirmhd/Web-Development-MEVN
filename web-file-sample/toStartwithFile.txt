@@ -1,0 +1,2 @@
+For dealing with file uploads in node express applications,
+1.   npm install --save multer

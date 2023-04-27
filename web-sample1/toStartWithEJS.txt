@@ -1,0 +1,12 @@
+To install ejs,
+1. npm install ejs
+2. set template engine and path of html files
+3. change html file extension to .ejs
+4. use render() for forwarding pages
+
+To install uuid - uniform unique ID
+1. npm install uuid
+
+Generally,
+To load CSS, Js, Images(static files) - Use static() with file name.
+To parse string from form data to js - use urlencoded with extended boolean value as false.

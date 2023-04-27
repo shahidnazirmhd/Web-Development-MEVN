@@ -1,0 +1,3 @@
+_____-----IGNORE IT-----_________
+all the routes are splitted and used with Router()
+all the functions are replaced to other dir and exported by module.exports

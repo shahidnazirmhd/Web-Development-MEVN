@@ -1,0 +1,42 @@
+[
+    {
+        "rId": "r1",
+        "name": "test",
+        "address": "test address",
+        "cuisine": "Indian",
+        "website": "http://www.test.com",
+        "description": "It's awesome."
+    },
+    {
+        "rId": "r2",
+        "name": "Best restaurant",
+        "address": "my street, my city",
+        "cuisine": "chinese",
+        "website": "http://www.best.com",
+        "description": "All is best."
+    },
+    {
+        "rId": "r3",
+        "name": "Super restaurant",
+        "address": "our street, our city",
+        "cuisine": "Arabian",
+        "website": "http://www.super.com",
+        "description": "All are super."
+    },
+    {
+        "rId": "r4",
+        "name": "Famous restaurant",
+        "address": "this street, this city",
+        "cuisine": "Italian",
+        "website": "http://www.famous.com",
+        "description": "this restaurant is famous."
+    },
+    {
+        "name": "A2Z",
+        "address": "aaa st bbbb city",
+        "cuisine": "kashmiri",
+        "website": "http://www.a2b.com",
+        "description": "Very tasty!",
+        "rId": "d8bbdacb-1c92-4f17-9b42-304ce68cdba3"
+    }
+]

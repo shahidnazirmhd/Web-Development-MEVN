@@ -1,0 +1,3 @@
+To install mongoDB package
+
+1. npm install mongodb

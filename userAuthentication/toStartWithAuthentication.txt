@@ -1,0 +1,12 @@
+To hash string (eg. passwords),
+Use bcryptjs, To install,
+
+1. npm install bycryptjs
+
+
+
+To use session and cookie,
+1. npm install express-session
+To store session,
+1. npm install connect-mongodb-session
+

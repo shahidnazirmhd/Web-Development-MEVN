@@ -1,0 +1,12 @@
+--- In terminal --- 
+
+To install express,
+1. npm init
+2. npm install express
+
+For reinstall,
+1. npm install
+
+To install nodemon,
+1. npm install nodemon --save-dev
+2. add script in package.json file

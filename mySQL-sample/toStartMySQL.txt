@@ -1,0 +1,6 @@
+To install mySQL package 
+
+npm install --save mysql2
+
+
+_-_-_-_-_-_-_-_-_-_-_---Complete CRUD Operation---_-_-_-_-_-_-_-_-_-_
